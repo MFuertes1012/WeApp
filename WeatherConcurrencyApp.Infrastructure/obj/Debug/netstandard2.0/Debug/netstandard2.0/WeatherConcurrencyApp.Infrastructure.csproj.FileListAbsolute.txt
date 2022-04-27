@@ -1,0 +1,42 @@
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\bin\Debug\netstandard2.0\WeatherConcurrencyApp.Infrastructure.deps.json
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\bin\Debug\netstandard2.0\WeatherConcurrencyApp.Infrastructure.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\bin\Debug\netstandard2.0\WeatherConcurrencyApp.Infrastructure.pdb
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\bin\Debug\netstandard2.0\WeatherConcurrencyApp.Common.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\bin\Debug\netstandard2.0\WeatherConcurrentApp.Domain.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\bin\Debug\netstandard2.0\WeatherConcurrencyApp.Common.pdb
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\bin\Debug\netstandard2.0\WeatherConcurrentApp.Domain.pdb
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\obj\Debug\netstandard2.0\WeatherConcurrencyApp.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\obj\Debug\netstandard2.0\WeatherConcurrencyApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\obj\Debug\netstandard2.0\WeatherConcurrencyApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\obj\Debug\netstandard2.0\WeatherConcurrencyApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\obj\Debug\netstandard2.0\WeatherConcurrencyApp.Infrastructure.csproj.CopyComplete
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\obj\Debug\netstandard2.0\WeatherConcurrencyApp.Infrastructure.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\obj\Debug\netstandard2.0\WeatherConcurrencyApp.Infrastructure.pdb
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\bin\Debug\netstandard2.0\WeatherConcurrencyApp.Infrastructure.deps.json
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\bin\Debug\netstandard2.0\WeatherConcurrencyApp.Infrastructure.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\bin\Debug\netstandard2.0\WeatherConcurrencyApp.Infrastructure.pdb
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\bin\Debug\netstandard2.0\WeatherConcurrencyApp.Common.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\bin\Debug\netstandard2.0\WeatherConcurrentApp.Domain.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\bin\Debug\netstandard2.0\WeatherConcurrencyApp.Common.pdb
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\bin\Debug\netstandard2.0\WeatherConcurrentApp.Domain.pdb
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\obj\Debug\netstandard2.0\WeatherConcurrencyApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\obj\Debug\netstandard2.0\WeatherConcurrencyApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\obj\Debug\netstandard2.0\WeatherConcurrencyApp.Infrastructure.AssemblyInfo.cs
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\obj\Debug\netstandard2.0\WeatherConcurrencyApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\obj\Debug\netstandard2.0\WeatherConcurrencyApp.Infrastructure.csproj.CopyComplete
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\obj\Debug\netstandard2.0\WeatherConcurrencyApp.Infrastructure.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\obj\Debug\netstandard2.0\WeatherConcurrencyApp.Infrastructure.pdb
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\bin\Debug\netstandard2.0\WeatherConcurrencyApp.Infrastructure.deps.json
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\bin\Debug\netstandard2.0\WeatherConcurrencyApp.Infrastructure.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\bin\Debug\netstandard2.0\WeatherConcurrencyApp.Infrastructure.pdb
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\bin\Debug\netstandard2.0\WeatherConcurrencyApp.Common.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\bin\Debug\netstandard2.0\WeatherConcurrentApp.Domain.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\bin\Debug\netstandard2.0\WeatherConcurrencyApp.Common.pdb
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\bin\Debug\netstandard2.0\WeatherConcurrentApp.Domain.pdb
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\obj\Debug\netstandard2.0\WeatherConcurrencyApp.Infrastructure.csprojAssemblyReference.cache
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\obj\Debug\netstandard2.0\WeatherConcurrencyApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\obj\Debug\netstandard2.0\WeatherConcurrencyApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\obj\Debug\netstandard2.0\WeatherConcurrencyApp.Infrastructure.AssemblyInfo.cs
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\obj\Debug\netstandard2.0\WeatherConcurrencyApp.Infrastructure.csproj.CopyComplete
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\obj\Debug\netstandard2.0\WeatherConcurrencyApp.Infrastructure.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\obj\Debug\netstandard2.0\WeatherConcurrencyApp.Infrastructure.pdb
