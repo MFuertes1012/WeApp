@@ -1,0 +1,18 @@
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Common\bin\Debug\WeatherConcurrencyApp.Common.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Common\bin\Debug\WeatherConcurrencyApp.Common.pdb
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Common\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Common\obj\Debug\WeatherConcurrencyApp.Common.csprojAssemblyReference.cache
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Common\obj\Debug\WeatherConcurrencyApp.Common.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Common\obj\Debug\WeatherConcurrencyApp.Common.csproj.CopyComplete
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Common\obj\Debug\WeatherConcurrencyApp.Common.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Common\obj\Debug\WeatherConcurrencyApp.Common.pdb
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Common\bin\Debug\WeatherConcurrencyApp.Common.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Common\bin\Debug\WeatherConcurrencyApp.Common.pdb
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Common\bin\Debug\Newtonsoft.Json.xml
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Common\obj\Debug\WeatherConcurrencyApp.Common.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Common\obj\Debug\WeatherConcurrencyApp.Common.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Common\obj\Debug\WeatherConcurrencyApp.Common.csproj.CopyComplete
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Common\obj\Debug\WeatherConcurrencyApp.Common.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Common\obj\Debug\WeatherConcurrencyApp.Common.pdb
