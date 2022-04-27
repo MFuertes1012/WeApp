@@ -1,0 +1,354 @@
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\WeatherConcurrencyApp.exe.config
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\WeatherConcurrencyApp.exe
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\WeatherConcurrencyApp.pdb
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\netstandard.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.AppContext.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Collections.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.ComponentModel.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Console.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Data.Common.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Globalization.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.IO.Compression.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.IO.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.IO.Pipes.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Linq.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Net.Http.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Net.Ping.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Net.Primitives.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Net.Requests.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Net.Security.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Net.Sockets.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.ObjectModel.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Reflection.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Resources.Reader.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Resources.Writer.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Runtime.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Security.Claims.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Security.Principal.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Security.SecureString.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Text.Encoding.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Threading.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Threading.Thread.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Threading.Timer.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.ValueTuple.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Xml.XPath.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\WeatherConcurrencyApp.Infrastructure.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\WeatherConcurrentApp.Domain.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\WeatherConcurrencyApp.Common.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\WeatherConcurrencyApp.Infrastructure.pdb
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\WeatherConcurrentApp.Domain.pdb
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\WeatherConcurrencyApp.Common.pdb
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\obj\Debug\WeatherConcurrencyApp.Presentation.csprojAssemblyReference.cache
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\obj\Debug\WeatherConcurrencyApp.exe.config
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\obj\Debug\WeatherConcurrencyApp.DetailsWeather.resources
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\obj\Debug\WeatherConcurrencyApp.FrmMain.resources
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\obj\Debug\WeatherConcurrencyApp.Properties.Resources.resources
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\obj\Debug\WeatherConcurrencyApp.WeatherPanel.resources
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\obj\Debug\WeatherConcurrencyApp.Presentation.csproj.GenerateResource.cache
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\obj\Debug\WeatherConcurrencyApp.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\obj\Debug\WeatherConcurrencyApp.Presentation.csproj.CopyComplete
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\obj\Debug\WeatherConcurrencyApp.exe
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrencyApp\obj\Debug\WeatherConcurrencyApp.pdb
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\WeatherConcurrencyApp.exe.config
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\WeatherConcurrencyApp.exe
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\WeatherConcurrencyApp.pdb
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\netstandard.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.AppContext.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Collections.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Collections.Specialized.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.ComponentModel.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Console.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Data.Common.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Globalization.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.IO.Compression.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.IO.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.IO.FileSystem.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.IO.Pipes.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Linq.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Linq.Expressions.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Linq.Parallel.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Linq.Queryable.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Net.Http.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Net.NameResolution.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Net.Ping.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Net.Primitives.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Net.Requests.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Net.Security.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Net.Sockets.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Net.WebSockets.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.ObjectModel.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Reflection.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Resources.Reader.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Resources.Writer.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Runtime.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Runtime.Handles.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Security.Claims.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Security.Principal.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Security.SecureString.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Text.Encoding.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Threading.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Threading.Tasks.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Threading.Thread.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Threading.Timer.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.ValueTuple.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Xml.XDocument.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Xml.XPath.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\WeatherConcurrencyApp.Infrastructure.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\WeatherConcurrentApp.Domain.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\WeatherConcurrencyApp.Common.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\WeatherConcurrencyApp.Infrastructure.pdb
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\WeatherConcurrentApp.Domain.pdb
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\WeatherConcurrencyApp.Common.pdb
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\obj\Debug\WeatherConcurrencyApp.Presentation.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\obj\Debug\WeatherConcurrencyApp.exe.config
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\obj\Debug\WeatherConcurrencyApp.DetailsWeather.resources
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\obj\Debug\WeatherConcurrencyApp.FrmMain.resources
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\obj\Debug\WeatherConcurrencyApp.Properties.Resources.resources
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\obj\Debug\WeatherConcurrencyApp.WeatherPanel.resources
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\obj\Debug\WeatherConcurrencyApp.Presentation.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\obj\Debug\WeatherConcurrencyApp.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\obj\Debug\WeatherConcurrencyApp.Presentation.csproj.CopyComplete
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\obj\Debug\WeatherConcurrencyApp.exe
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\obj\Debug\WeatherConcurrencyApp.pdb
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\WeatherConcurrencyApp.exe.config
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\WeatherConcurrencyApp.exe
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\WeatherConcurrencyApp.pdb
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\netstandard.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.AppContext.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Collections.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Collections.Specialized.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.ComponentModel.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Console.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Data.Common.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Globalization.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.IO.Compression.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.IO.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.IO.FileSystem.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.IO.Pipes.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Linq.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Linq.Expressions.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Linq.Parallel.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Linq.Queryable.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Net.Http.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Net.NameResolution.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Net.Ping.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Net.Primitives.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Net.Requests.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Net.Security.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Net.Sockets.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Net.WebSockets.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.ObjectModel.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Reflection.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Resources.Reader.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Resources.Writer.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Runtime.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Runtime.Handles.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Security.Claims.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Security.Principal.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Security.SecureString.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Text.Encoding.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Threading.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Threading.Tasks.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Threading.Thread.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Threading.Timer.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.ValueTuple.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Xml.XDocument.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Xml.XPath.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\WeatherConcurrencyApp.Common.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\WeatherConcurrencyApp.Infrastructure.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\WeatherConcurrentApp.Domain.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\WeatherConcurrencyApp.Common.pdb
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\WeatherConcurrencyApp.Infrastructure.pdb
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\WeatherConcurrentApp.Domain.pdb
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\obj\Debug\WeatherConcurrencyApp.Presentation.csprojAssemblyReference.cache
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\obj\Debug\WeatherConcurrencyApp.exe.config
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\obj\Debug\WeatherConcurrencyApp.DetailsWeather.resources
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\obj\Debug\WeatherConcurrencyApp.FrmMain.resources
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\obj\Debug\WeatherConcurrencyApp.Properties.Resources.resources
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\obj\Debug\WeatherConcurrencyApp.WeatherPanel.resources
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\obj\Debug\WeatherConcurrencyApp.Presentation.csproj.GenerateResource.cache
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\obj\Debug\WeatherConcurrencyApp.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\obj\Debug\WeatherConcurrencyApp.Presentation.csproj.CopyComplete
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\obj\Debug\WeatherConcurrencyApp.exe
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrencyApp\obj\Debug\WeatherConcurrencyApp.pdb
