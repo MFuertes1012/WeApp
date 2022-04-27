@@ -1,0 +1,27 @@
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrentApp.Domain\bin\Debug\netstandard2.0\WeatherConcurrentApp.Domain.deps.json
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrentApp.Domain\bin\Debug\netstandard2.0\WeatherConcurrentApp.Domain.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrentApp.Domain\bin\Debug\netstandard2.0\WeatherConcurrentApp.Domain.pdb
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.csprojAssemblyReference.cache
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.AssemblyInfo.cs
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.dll
+C:\Users\Sistemas23\Desktop\WeatherConcurrencyApp-master\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.pdb
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrentApp.Domain\bin\Debug\netstandard2.0\WeatherConcurrentApp.Domain.deps.json
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrentApp.Domain\bin\Debug\netstandard2.0\WeatherConcurrentApp.Domain.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrentApp.Domain\bin\Debug\netstandard2.0\WeatherConcurrentApp.Domain.pdb
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.AssemblyInfo.cs
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.dll
+C:\Users\usuario\Desktop\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.pdb
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrentApp.Domain\bin\Debug\netstandard2.0\WeatherConcurrentApp.Domain.deps.json
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrentApp.Domain\bin\Debug\netstandard2.0\WeatherConcurrentApp.Domain.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrentApp.Domain\bin\Debug\netstandard2.0\WeatherConcurrentApp.Domain.pdb
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.csprojAssemblyReference.cache
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.AssemblyInfoInputs.cache
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.AssemblyInfo.cs
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.dll
+C:\Users\UNI16\Documents\WCH TERMINADO\WEATHER PROGRAMA CON HILOS\WeatherConcurrencyApp-master\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.pdb
